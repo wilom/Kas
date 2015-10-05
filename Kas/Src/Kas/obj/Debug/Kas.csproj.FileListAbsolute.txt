@@ -1,0 +1,5 @@
+D:\ProjectCoba\coba21\Kas\Src\Kas\bin\Debug\Kas.dll
+D:\ProjectCoba\coba21\Kas\Src\Kas\bin\Debug\Kas.pdb
+D:\ProjectCoba\coba21\Kas\Src\Kas\obj\Debug\Kas.csprojResolveAssemblyReference.cache
+D:\ProjectCoba\coba21\Kas\Src\Kas\obj\Debug\Kas.dll
+D:\ProjectCoba\coba21\Kas\Src\Kas\obj\Debug\Kas.pdb
